@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name:shivam yadav
+- University Roll No.:1900290310153
+- Branch:ECE
+- Section:C
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
